@@ -7,59 +7,6 @@ permalink: /training_calendar/
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '50612059031',
-        iframeContainerId: 'eventbrite-widget-container-50612059031',
-
-        // Optional
-        iframeContainerHeight: 400,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-
-
-        window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '50612761131',
-        iframeContainerId: 'eventbrite-widget-container-50612761131',
-
-        // Optional
-        iframeContainerHeight: 400,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '50599443297',
-        iframeContainerId: 'eventbrite-widget-container-50599443297',
-
-        // Optional
-        iframeContainerHeight: 400,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '50612133253',
-        iframeContainerId: 'eventbrite-widget-container-50612133253',
-
-        // Optional
-        iframeContainerHeight: 400,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-
-</script>
 
 
 #### Carpentries Member Site Instructor Training Calendar
@@ -78,8 +25,9 @@ Training dates for early 2019 will be announced in December 2018.
 # North America
 
 >> ## Eastern Time  
->> <div id="eventbrite-widget-container-50612761131"></div>
->> <div id="eventbrite-widget-container-50599443297"></div>
+
+>> <iframe src="https://www.eventbrite.com/tickets-external?eid=50612761131&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"></iframe>
+>> <iframe src="https://www.eventbrite.com/tickets-external?eid=50599443297&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"></iframe>
 > {: .solution}
 {: .challenge}
 
@@ -96,7 +44,7 @@ Training dates for early 2019 will be announced in December 2018.
 
 <!-- #### Pacific time -->
 >> ## Pacific Time  
->> <div id="eventbrite-widget-container-50612059031"></div>
+>> <iframe src="https://www.eventbrite.com/tickets-external?eid=50612059031&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"></iframe>
 > {: .solution}
 {: .challenge}
 
@@ -110,7 +58,7 @@ Training dates for early 2019 will be announced in December 2018.
 
 
 >> ## Central European  Time  
->> <div id="eventbrite-widget-container-50612133253"></div>
+>> <iframe src="https://www.eventbrite.com/tickets-external?eid=50612133253&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"></iframe>
 > {: .solution}
 {: .challenge}
 
