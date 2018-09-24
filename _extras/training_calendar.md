@@ -19,7 +19,7 @@ permalink: /training_calendar/
         iframeContainerId: 'eventbrite-widget-container-50612059031',
 
         // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 
@@ -31,7 +31,7 @@ permalink: /training_calendar/
         iframeContainerId: 'eventbrite-widget-container-50612761131',
 
         // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 200,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 
@@ -43,7 +43,7 @@ permalink: /training_calendar/
         iframeContainerId: 'eventbrite-widget-container-50599443297',
 
         // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 300,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 
@@ -55,7 +55,7 @@ permalink: /training_calendar/
         iframeContainerId: 'eventbrite-widget-container-50612133253',
 
         // Optional
-        iframeContainerHeight: 300,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 400,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 
@@ -65,16 +65,17 @@ permalink: /training_calendar/
 #### Carpentries Member Site Instructor Training Calendar
 ###  September to December 2018
 
+### This is not a real website - it is for testing purposes only.  The actual Carpentries training calendar can be found at https://carpentries.github.io/instructor-training/training_calendar/
 
-If you are a member site ready to schedule your instructor training session, please contact maneesha@carpentries.org with your first and second choices for dates.  If you do not see a training in your time zone, please contact maneesha@carpentries.org.
-
+If you are affiliated with a member site ready to schedule your instructor training session, use the calendar and registration links below to register for an event.
 All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone. 
 
 Training dates for early 2019 will be announced in December 2018.
 
+### This is not a real website - it is for testing purposes only.  The actual Carpentries training calendar can be found at https://carpentries.github.io/instructor-training/training_calendar/
+
+
 # North America
-
-
 
 >> ## Eastern Time  
 >> <div id="eventbrite-widget-container-50612761131"></div>
