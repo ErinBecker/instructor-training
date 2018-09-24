@@ -62,11 +62,6 @@ permalink: /training_calendar/
 </script>
 
 
-
-
-
-
-
 #### Carpentries Member Site Instructor Training Calendar
 ###  September to December 2018
 
@@ -79,7 +74,7 @@ Training dates for early 2019 will be announced in December 2018.
 
 # North America
 
-<!-- #### Eastern time -->
+
 
 >> ## Eastern Time  
 >> <div id="eventbrite-widget-container-50612761131"></div>
@@ -87,16 +82,15 @@ Training dates for early 2019 will be announced in December 2018.
 > {: .solution}
 {: .challenge}
 
+>> ## Central Time  
+>> *Additional training dates will be scheduled if needed*
+> {: .solution}
+{: .challenge}
 
-
-
-
-#### Central time
-*Additional training dates will be scheduled if needed*
-
-
-#### Mountain time
-*Additional training dates will be scheduled if needed*
+>> ## Mountain Time  
+>> *Additional training dates will be scheduled if needed*
+> {: .solution}
+{: .challenge}
 
 <!-- #### Pacific time -->
 >> ## Pacific Time  
@@ -106,8 +100,10 @@ Training dates for early 2019 will be announced in December 2018.
 
 # Europe
 
-#### Western European time
-*Additional training dates will be scheduled if needed*
+>> ## Western European Time  
+>> *Additional training dates will be scheduled if needed*
+> {: .solution}
+{: .challenge}
 
 
 
