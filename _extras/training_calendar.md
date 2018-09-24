@@ -19,7 +19,7 @@ permalink: /training_calendar/
         iframeContainerId: 'eventbrite-widget-container-50612059031',
 
         // Optional
-        iframeContainerHeight: 100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 400,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 
@@ -31,7 +31,7 @@ permalink: /training_calendar/
         iframeContainerId: 'eventbrite-widget-container-50612761131',
 
         // Optional
-        iframeContainerHeight: 100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 400,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 
@@ -43,7 +43,7 @@ permalink: /training_calendar/
         iframeContainerId: 'eventbrite-widget-container-50599443297',
 
         // Optional
-        iframeContainerHeight: 100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 400,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 
@@ -55,7 +55,7 @@ permalink: /training_calendar/
         iframeContainerId: 'eventbrite-widget-container-50612133253',
 
         // Optional
-        iframeContainerHeight: 100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 400,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 
