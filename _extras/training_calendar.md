@@ -17,8 +17,6 @@ permalink: /training_calendar/
 If you are affiliated with a member site ready to schedule your instructor training session, use the calendar and registration links below to register for an event.
 All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone. 
 
-View all events on a calendar [here](https://calendar.google.com/calendar/embed?src=carpentries.org_tkv4eif9njgq4l6e2d4erroquo%40group.calendar.google.com&ctz=America%2FNew_York).
-
 This is a test page so the calendar events do not directly match with the registration links below; they will when we do this for real.
 
 Training dates for early 2019 will be announced in December 2018.
