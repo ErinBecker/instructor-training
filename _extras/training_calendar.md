@@ -39,5 +39,20 @@ Training dates for early 2019 will be announced in December 2018.
 * November 7-8, 2018
 * November 29-30, 2018 (*Note date has changed since calendar was first published*)
 
+>> ## Solution  
+>> Courtney Seiter lists [10 words and phrases][motivation-words] that can change a conversation: *if*, *could*, *yes*,
+>> *together*, *thank you*,
+>> *choose to*, *and*, *because*, *willing*, and the person's name. These are motivating words and phrases that can shift mindsets.
+>> Jason Fried lists several dirty [four-letter words:][four-letter-words] *need*, *must*, *can’t*, *easy*,
+>> *just*, *only*, and *fast*, as well as
+>> examples of how they are used to demotivate. Statements like:
+>> *    "We really need it."
+>> *    "If we don’t we can’t ..."
+>> *    "Wouldn’t it be easy if we just did it like that?"
+>> *    "Can you try it real fast?"
+>> can be perceived as dismissive or demeaning or worse.
+>>
+> {: .solution}
+{: .challenge}
 
 
