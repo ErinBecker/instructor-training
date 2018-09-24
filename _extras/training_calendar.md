@@ -15,6 +15,18 @@ permalink: /training_calendar/
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
+        eventId: '50612059031',
+        iframeContainerId: 'eventbrite-widget-container-50612059031',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+
+
+        window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
         eventId: '50612761131',
         iframeContainerId: 'eventbrite-widget-container-50612761131',
 
@@ -22,6 +34,31 @@ permalink: /training_calendar/
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
+
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '50599443297',
+        iframeContainerId: 'eventbrite-widget-container-50599443297',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '50612133253',
+        iframeContainerId: 'eventbrite-widget-container-50612133253',
+
+        // Optional
+        iframeContainerHeight: 300,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+
 </script>
 
 
@@ -42,33 +79,42 @@ Training dates for early 2019 will be announced in December 2018.
 
 # North America
 
-#### Eastern time
-* November 14-15, 2018
+<!-- #### Eastern time -->
+
+>> ## Eastern Time  
+>> <div id="eventbrite-widget-container-50612761131"></div>
+>> <div id="eventbrite-widget-container-50599443297"></div>
+> {: .solution}
+{: .challenge}
+
+
+
+
 
 #### Central time
-* November 8-9, 2018
+*Additional training dates will be scheduled if needed*
+
 
 #### Mountain time
 *Additional training dates will be scheduled if needed*
 
-#### Pacific time
-* November 27-28
-* December 11-12
+<!-- #### Pacific time -->
+>> ## Pacific Time  
+>> <div id="eventbrite-widget-container-50612059031"></div>
+> {: .solution}
+{: .challenge}
 
 # Europe
 
 #### Western European time
-* November 5-6, 2018
+*Additional training dates will be scheduled if needed*
 
-#### Central European time
-* November 7-8, 2018
-* November 29-30, 2018 (*Note date has changed since calendar was first published*)
 
->> ## Solution  
->> Here's something inside the solution before the div
->> <div id="eventbrite-widget-container-50612761131"></div>
->> Here's something inside the solution after the div
+
+>> ## Central European  Time  
+>> <div id="eventbrite-widget-container-50612133253"></div>
 > {: .solution}
 {: .challenge}
+
 
 
