@@ -85,8 +85,7 @@ Training dates for early 2019 will be announced in December 2018.
 
 >> ## Central Time  
 >> This isn't really in Central time, just testing a placeholder
->> <iframe src="https://www.eventbrite.com/tickets-external?eid=50612761131&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto">
-</iframe>
+>> <iframe src="https://www.eventbrite.com/tickets-external?eid=50612761131&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"></iframe>
 
 > {: .solution}
 {: .challenge}
