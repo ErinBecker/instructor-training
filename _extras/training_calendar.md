@@ -63,8 +63,9 @@ Training dates for early 2019 will be announced in December 2018.
 * November 29-30, 2018 (*Note date has changed since calendar was first published*)
 
 >> ## Solution  
+>> Here's something inside the solution before the div
 >> <div id="eventbrite-widget-container-50612761131"></div>
->>
+>> Here's something inside the solution after the div
 > {: .solution}
 {: .challenge}
 
