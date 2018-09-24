@@ -3,7 +3,9 @@ layout: page
 title: "Instructor Training Calendar for Carpentries Members"
 permalink: /training_calendar/
 ---
-<div id="eventbrite-widget-container-50612761131"></div>
+
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
     var exampleCallback = function() {
