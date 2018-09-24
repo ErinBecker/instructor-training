@@ -3,7 +3,7 @@ layout: page
 title: "Instructor Training Calendar for Carpentries Members"
 permalink: /training_calendar/
 ---
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<div id="eventbrite-widget-container-50612761131"></div>
 
 <script type="text/javascript">
     var exampleCallback = function() {
@@ -62,10 +62,10 @@ Training dates for early 2019 will be announced in December 2018.
 * November 7-8, 2018
 * November 29-30, 2018 (*Note date has changed since calendar was first published*)
 
- ## Solution  
-<div id="eventbrite-widget-container-50612761131"></div>
-
- {: .solution}
+>> ## Solution  
+>> <div id="eventbrite-widget-container-50612761131"></div>
+>>
+> {: .solution}
 {: .challenge}
 
 
