@@ -1,10 +1,10 @@
 # Registration confirmation
 
-Thank you for registering for a Carpentries Instructor Training event. You should be getting an email from Eventbrite to confirm your registration.  If you have landed on this page without registering for an event, please visit [this page](../) for more information about our Instructor Training program or contact [team@carpentries.org](mailto::team@carpentries.org).
+Thank you for registering for a Carpentries Instructor Training event. You should be getting an email from Eventbrite to confirm your registration.  If you have landed on this page without registering for an event, please visit [this page](https://maneesha.github.io/instructor-training/) for more information about our Instructor Training program or contact [team@carpentries.org](mailto::team@carpentries.org).
 
-To prepare for the Instructor Training workshop, please review our [instructor training curriculum](../).  This will give you an overview of what we'll be doing over the two days.  It also links to our [checkout process](/instructor-training/checkout/) required to complete the certification process to teach Carpentries workshops.
+To prepare for the Instructor Training workshop, please review our [instructor training curriculum](https://maneesha.github.io/instructor-training/).  This will give you an overview of what we'll be doing over the two days.  It also links to our [checkout process](https://maneesha.github.io/instructor-training/checkout/) required to complete the certification process to teach Carpentries workshops.
 
-You can read more about [The Carpentries]() and its lesson programs, [Software Carpentry]() and [Data Carpentry](). Read about all the ways to [get involved](https://carpentries.org/community/) in The Carpentries, including signing up for mailing lists and newsletters.
+You can read more about [The Carpentries](https://carpentries.org/) and its lesson programs, [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://datacarpentry.org/). Read about all the ways to [get involved](https://carpentries.org/community/) in The Carpentries, including signing up for mailing lists and newsletters.
 
 We're excited to have you on board and look forward to having you officially join The Carpentries instructor community.  If you have any questions, please [contact us](mailto::team@carpentries.org).
 
