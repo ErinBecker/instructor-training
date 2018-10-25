@@ -1,6 +1,6 @@
 # Registration confirmation
 
-Thank you for registering for a Carpentries Instructor Training event. You should be getting an email from Eventbrite to confirm your registration.  If you have landed on this page without registering for an event, please visit [this page](..//instructor-training/) for more information about our Instructor Training program or contact [team@carpentries.org](mailto::team@carpentries.org).
+Thank you for registering for a Carpentries Instructor Training event. You should be getting an email from Eventbrite to confirm your registration.  If you have landed on this page without registering for an event, please visit [this page](../instructor-training/) for more information about our Instructor Training program or contact [team@carpentries.org](mailto::team@carpentries.org).
 
 To prepare for the Instructor Training workshop, please review our [instructor training curriculum](..//instructor-training/).  This will give you an overview of what we'll be doing over the two days.  It also links to our [checkout process](/instructor-training/checkout/) required to complete the certification process to teach Carpentries workshops.
 
