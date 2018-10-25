@@ -7,61 +7,40 @@ permalink: /training_calendar/
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
+# This is a test site - information below is not accurate.  Please contact team@carpentries.org with any questions.
 
 
 #### Carpentries Member Site Instructor Training Calendar
 ###  September to December 2018
 
-### This is not a real website - it is for testing purposes only.  The actual Carpentries training calendar can be found at https://carpentries.github.io/instructor-training/training_calendar/
-
-If you are affiliated with a member site ready to schedule your instructor training session, use the calendar and registration links below to register for an event.
-All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone. 
-
-This is a test page so the calendar events do not directly match with the registration links below; they will when we do this for real.
-
-Training dates for early 2019 will be announced in December 2018.
-
-### This is not a real website - it is for testing purposes only.  The actual Carpentries training calendar can be found at https://carpentries.github.io/instructor-training/training_calendar/
+Click on any active link to register for that event using your invitation code.  Please contact team@carpentries.org with any questions.
 
 
 # North America
 
->> ## Eastern Time  
->> <iframe src="https://www.eventbrite.com/tickets-external?eid=50612761131&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"></iframe>
->> <iframe src="https://www.eventbrite.com/tickets-external?eid=50599443297&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"></iframe>
-> {: .solution}
-{: .challenge}
+#### Eastern time
+* September 25-26, 2018 (closed)
+* October 10-11, 2018 (closed)
+* December 3-4, 2018 (closed)
 
->> ## Central Time  
->> This isn't really in Central time, just testing a placeholder to see what happens
->> <iframe src="https://www.eventbrite.com/tickets-external?eid=50612761131&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"></iframe>
-> {: .solution}
-{: .challenge}
+#### Central time
+* November 8-9, 2018 (closed)
 
->> ## Mountain Time  
->> *Additional training dates will be scheduled if needed*
-> {: .solution}
-{: .challenge}
+#### Mountain time
+*Additional training dates will be scheduled if needed*
 
-<!-- #### Pacific time -->
->> ## Pacific Time  
->> <iframe src="https://www.eventbrite.com/tickets-external?eid=50612059031&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"></iframe>
-> {: .solution}
-{: .challenge}
+#### Pacific time
+* October 10-11, 2018 (closed)
+* [November 27-28, 2018](https://www.eventbrite.com/e/online-instructor-training-nov-27-28-n-america-pacific-time-tickets-51335508889)
+* December 11-12, 2018
 
 # Europe
 
->> ## Western European Time  
->> *Additional training dates will be scheduled if needed*
-> {: .solution}
-{: .challenge}
+#### Western European time
+* October 9-10, 2018 (closed)
+* November 5-6, 2018 (closed)
 
 
-
->> ## Central European  Time  
->> <iframe src="https://www.eventbrite.com/tickets-external?eid=50612133253&amp;ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"></iframe>
-> {: .solution}
-{: .challenge}
-
-
-
+#### Central European time
+* October 16-17, 2018 (closed)
+* November 29-30, 2018 (*Note date has changed since calendar was first published*)
