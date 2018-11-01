@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Confirmation Page"
+permalink: /confirmation/
+---
+
 # Registration confirmation
 
 Thank you for registering for a Carpentries Instructor Training event. You should be getting an email from Eventbrite to confirm your registration.  If you have landed on this page without registering for an event, please visit [this page](https://maneesha.github.io/instructor-training/) for more information about our Instructor Training program or contact [team@carpentries.org](mailto::team@carpentries.org).
